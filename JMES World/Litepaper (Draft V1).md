@@ -1,8 +1,8 @@
-#JMES World Litepaper (Draft V1)
+# JMES World Litepaper (Draft V1)
 
-Democratizing Art
+# Democratizing Art
 
-OVERVIEW
+## OVERVIEW
 JMES World is a blockchain-based Art DAO (Decentralized Autonomous Organization) that
 brings together a community of Artists, Art Collectors and Consumers, spanning both the
 physical and digital Art worlds and backed by its own crypto-currency ($JMES) that’s maintained
@@ -32,13 +32,7 @@ decentralized Art Community, fractionally owned by the people creating and enjoy
 themselves, enabling everyone to create, collect and enjoy all forms of Art, without permission,
 trust or borders.
 
-1
-
-JMES World Litepaper (Draft V1)
-
-Democratizing Art
-
-PHYSICAL LAYER
+## PHYSICAL LAYER
 JMES is built on a physical layer of Spaces that host Art-centric cultural events called
 Experiences that bring together free-minded and creative people who want to learn about,
 appreciate, enjoy, consume and own Art in all its aesthetic forms.
@@ -59,7 +53,8 @@ token, so users can onboard/acquire the token on-site if they don't have it, and
 it for all economic activities within the locations. This is to drive adoption of $JMES as the de
 facto currency for Art in the community and promote a circular economy of production and
 consumption within the ecosystem.
-DIGITAL LAYER
+
+## DIGITAL LAYER
 The Digital layer of JMES World is an ecosystem of online platforms built on the $JMES
 Blockchain. As essentially an open-source and decentralized database, the $JMES blockchain
 enables the trustless representation and verification of memberships, Art ownership and sales,
@@ -72,19 +67,14 @@ marketplaces, Governance portals, or sites to help educate and onboard users to 
 The Core Team hosts the "Official" platform at JMESWorld.com, which is the default landing and
 onboarding page for the Digital layer, although anyone can create alternatives if they want.
 
-2
-
-JMES World Litepaper (Draft V1)
-
-Democratizing Art
-
-The JMESWorld site provides a Marketplace frontend for the fractionalization of Art onto the
+The JMES World site provides a Marketplace frontend for the fractionalization of Art onto the
 blockchain by Artists, the buying/selling of fractions and the discovery of all physical and digital
 Art locked on the $JMES blockchain, plus onboarding to new users (acquiring $JMES tokens
 and wallets), Governance functions such as creating funding proposals and voting, and entry to
 JMES's virtual-world experiences such as the Metaverse app, in which Artists are allocated
 exclusive Spaces that can also be bought and sold via the blockchain.
-DAO
+
+## DAO
 $JMES is an ERC20 based fungible token (100 billion units with 9 decimals called Nils) with an
 initial distribution of [20%] to the Core Team for use in the ICO (Art and fiat), airdrops, team
 operation and incentives, development, events hosting, marketing and activation activities.
@@ -111,12 +101,6 @@ The strategy for activation of JMES world is centered around adding value to the
 in the form of initially locking / fractionalizing well-known Art and onboarding Hero Artists, and
 then using the physical infrastructure to bootstrap the digital layer to grow membership, token
 adoption and economic activity. Initial activation steps are as follows:
-
-3
-
-JMES World Litepaper (Draft V1)
-
-Democratizing Art
 
 1. Launch of the $JMES blockchain and Platform, including initial distribution to the
 Core Team and launching the "official" JMESWord.com website that enables Art
